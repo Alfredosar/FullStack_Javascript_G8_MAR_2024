@@ -44,3 +44,10 @@ Recuerda, cada vez que quieras actualizar tu codigo local con los ultimos cambio
 - Clase #8, 22/03/2024 CSS Intro Flexbox: https://foremost-market-88d.notion.site/Gu-a-de-clase-7-Display-flex-justify-content-gap-3a4d3a9907f04f45a288eb26a572d7fb?pvs=4.
 - Clase #9, 26/03/2024 CSS Intro Flexbox: https://foremost-market-88d.notion.site/Gu-a-de-clase-9-Display-flex-justify-content-dudas-d2fb8bcfc3ba430ea89c00c98836437d?pvs=4.
 - Clase #10, 01/04/2024 CSS Repaso Flexbox, HTML semántico e intro media queries: https://foremost-market-88d.notion.site/Gu-a-de-clase-10-Display-flex-justify-content-dudas-media-queries-0c192ab423134461981d1cce9bf03e9f?pvs=4.
+
+## MODULO 2
+- 08/04/2024 Introduccion Variables: https://youtu.be/IbFKxFsreyE
+- 10/04/2024 Condicionales (IF - ELSE) : https://youtu.be/aTWRTjWPmzg
+- 12/04/2024 Const - Operadores Logicos : https://youtu.be/kr82H-loaqg
+- 15/04/2024 If -> Else If -> Else : https://youtu.be/XXM-sD74-Cs
+
