@@ -57,14 +57,18 @@
 
 //for (inicio; condicion; incremento){Que queremos que pase}
 for (var numberB = 1; numberB <= 10; numberB++){
-    const tableResult = numberB * 3;
-    document.write(numberB, "* 3 es igual a =", tableResult, "<br>");
+    const tableResult = numberB * 7;
+    document.write(numberB, "* 7 es igual a =<br>", tableResult, "<br>");
+
+
+    
     var count = 1;
-    while ( count <= 3 ){
+    while ( count <= 7 ){
         document.write("Hola mundo ", count, "<br>");
         count = count + 1;
     }
 }
+
 
 // RETO 2: 
 
